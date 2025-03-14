@@ -13,4 +13,6 @@ function daysOfAYear(year) {
 		return 365;
 		}
 	}
-}
+
+
+} 
