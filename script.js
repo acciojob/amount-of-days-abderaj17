@@ -9,6 +9,8 @@ function daysOfAYear(year) {
 			}
 		}else{
 			return 366
-		} else{}
+		} else{
+		return 365;
+		}
 	}
 }
